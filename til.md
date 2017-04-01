@@ -1,4 +1,6 @@
 # TIL
+## 2017-04-01
+- https://cloud.google.com/shell/ - Free shell with $HOME persisted for up to 5GB
 
 ## 2017-03-30
 - https://redis.io/commands#geo - Redis has geospatial commands
