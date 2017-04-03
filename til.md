@@ -19,7 +19,7 @@
 - https://github.com/acg/timebox - Politely timebox unix programs
 - https://endcrawl.com/ - A startup that does movie end credits
 
-## 2016-10-06.md
+## 2016-10-06
 
 - https://checkout.stripe.com/v3/data/zipCodes/PH.json?crossDomain=true - Get city, state & zip pairings from Stripe
 
@@ -279,7 +279,7 @@ I wanted to use [Sphinx](http://sphinx-doc.org/) for this year's
 Last year, I used [Pelican](http://blog.getpelican.com/) and
 [auto-deployed](http://blog.marksteve.com/push-to-deploy-static-sites-with-pelican-flask-and-github)
 the pages using GitHub's webhooks and a simple [Flask](http://flask.pocoo.org) app.
-But now I know a [neat trick](2015-02-26.md) to extract parts of a repo into
+But now I know a [neat trick](#2015-02-26) to extract parts of a repo into
 another branch (or repo). I used that to deploy Sphinx built html in GitHub Pages:
 
 1. Setup `html_extra_path` in your `conf.py`. Make sure you have a `.nojekyll` file in your html build root. Sphinx puts your static files inside the `_static` folder w/c Jekyll ignores because of the `_` prefix.
