@@ -1,4 +1,7 @@
 # TIL
+## 2017-04-03
+- Writing seeds is a good way to get familiar with db structure
+
 ## 2017-04-01
 - https://cloud.google.com/shell/ - Free shell with $HOME persisted for up to 5GB
 
