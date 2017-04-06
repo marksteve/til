@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-04-06
+- https://github.com/bugsnag/chromatic-sass - Better looking gradients
+
 ## 2017-04-03
 - Writing seeds is a good way to get familiar with db structure
 
