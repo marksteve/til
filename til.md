@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-04-18
+- https://en.wikipedia.org/wiki/Greenfield_project - lacks constraints imposed by prior work
+
 ## 2017-04-06
 - https://github.com/bugsnag/chromatic-sass - Better looking gradients
 
