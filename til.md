@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-04-19
+- http://wiki.flightgear.org/Virtual_airlines
+
 ## 2017-04-18
 - https://en.wikipedia.org/wiki/Greenfield_project - lacks constraints imposed by prior work
 
