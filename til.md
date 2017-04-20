@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-04-20
+- Add `npm rebuild node-sass` to DeployBot build script for when they update node versions in their build images
+
 ## 2017-04-19
 - http://wiki.flightgear.org/Virtual_airlines
 
