@@ -308,7 +308,7 @@ another branch (or repo). I used that to deploy Sphinx built html in GitHub Page
   ```makefile
   deploy:
 	  git subtree push --prefix=$(BUILDDIR)/html origin gh-pages
-	```
+  ```
 
 Now you just need to run `make deploy` and your built html
 files will be pushed to the `gh-pages` branch.
@@ -351,11 +351,11 @@ git subtree push --prefix=docs origin gh-pages
 1. Take a **small** bite at one corner of the Tim Tam
 2. Take another bite on the opposite end
 
-  ![](http://i.imgur.com/V5q0t7j.png)
+  <img src="http://i.imgur.com/V5q0t7j.png" width="100">
 
 3. Use the Tim Tam as straw to sip hot milk
 
-  ![](http://i.imgur.com/pRKg9zf.png)
+  <img src="http://i.imgur.com/pRKg9zf.png" width="100">
 
 4. As soon as you get milk, put **whole** Tim Tam inside your mouth
 5. Profit
