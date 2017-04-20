@@ -351,11 +351,11 @@ git subtree push --prefix=docs origin gh-pages
 1. Take a **small** bite at one corner of the Tim Tam
 2. Take another bite on the opposite end
 
-  <img src="http://i.imgur.com/V5q0t7j.png" width="100">
+  <img src="https://i.imgur.com/V5q0t7j.png" width="135">
 
 3. Use the Tim Tam as straw to sip hot milk
 
-  <img src="http://i.imgur.com/pRKg9zf.png" width="100">
+  <img src="https://i.imgur.com/pRKg9zf.png" width="146">
 
 4. As soon as you get milk, put **whole** Tim Tam inside your mouth
 5. Profit
