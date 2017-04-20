@@ -1,7 +1,7 @@
 # Today I Learned
 
 ## 2017-04-20
-- Rebuild modules (e.g. `npm rebuild node-sass`) in DeployBot build scripts for when they update node versions in their build images
+- Rebuild native modules (e.g. `npm rebuild node-sass`) in DeployBot build scripts for when they update node versions in their build images
 
 ## 2017-04-19
 - http://wiki.flightgear.org/Virtual_airlines
