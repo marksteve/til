@@ -1,4 +1,8 @@
 # Today I Learned
+
+## 2017-04-24
+- https://github.com/Gigoteur/PX8 - Pico8 in Rust
+
 ## 2017-04-23
 - https://www.ssh.com/ssh/port Why SSH uses port 22
 - https://blog.filippo.io/git-fixup-amending-an-older-commit/ - git fixup
