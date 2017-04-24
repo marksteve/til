@@ -1,6 +1,7 @@
 # Today I Learned
 ## 2017-04-23
 - https://www.ssh.com/ssh/port Why SSH uses port 22
+- https://blog.filippo.io/git-fixup-amending-an-older-commit/ - git fixup
 
 ## 2017-04-20
 - Rebuild native modules (e.g. `npm rebuild node-sass`) in DeployBot build scripts for when they update node versions in their build images
