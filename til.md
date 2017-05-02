@@ -3,6 +3,7 @@
 ## 2017-05-02
 - https://www.ssa.gov/cgi-bin/babyname.cgi - Get baby name trends
 - https://cloud.google.com/solutions/media/architecture/ - Media reference architectures
+- Google Cloud Shell has a code editor!
 
 ## 2017-04-24
 - https://github.com/Gigoteur/PX8 - Pico8 in Rust
