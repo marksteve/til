@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-05-02
+- https://www.ssa.gov/cgi-bin/babyname.cgi - Get baby name trends
+
 ## 2017-04-24
 - https://github.com/Gigoteur/PX8 - Pico8 in Rust
 
