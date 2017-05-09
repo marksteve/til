@@ -2,6 +2,7 @@
 
 ## 2017-05-09
 - http://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html
+- https://docs.python.org/dev/library/multiprocessing.html#multiprocessing.pool.Pool.starmap - Pass multiple arguments to a multiprocessing pool map function
 
 ## 2017-05-02
 - https://www.ssa.gov/cgi-bin/babyname.cgi - Get baby name trends
