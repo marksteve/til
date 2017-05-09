@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-05-09
+- http://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html
+
 ## 2017-05-02
 - https://www.ssa.gov/cgi-bin/babyname.cgi - Get baby name trends
 - https://cloud.google.com/solutions/media/architecture/ - Media reference architectures
