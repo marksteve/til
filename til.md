@@ -1,4 +1,6 @@
 # Today I Learned
+## 2017-05-22
+- http://www.defstartup.org/2016/12/22/writing-well.html - Writing well
 
 ## 2017-05-21
 - https://github.com/tidwall/pinhole - 3D Wireframe Drawing Library for Go
