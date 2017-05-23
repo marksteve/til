@@ -1,9 +1,20 @@
 # Today I Learned
+
+## 2017-05-23
+
+- http://www.pythondoeswhat.com/
+
+  Reverse a list with slicing
+
+  ```python
+  >>> [1,2,3][::-1]
+  ```
+  
+
 ## 2017-05-22
 - http://www.defstartup.org/2016/12/22/writing-well.html - Writing well
 - https://github.com/mahmoud/boltons - Constructs/recipes/snippets that would be handy in the standard library
 - https://github.com/mahmoud/lithoxyl - Application instrumentation and logging, with a geological bent
-
 
 ## 2017-05-21
 - https://github.com/tidwall/pinhole - 3D Wireframe Drawing Library for Go
