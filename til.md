@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-05-24
+- https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/ - Git tricks
+
 ## 2017-05-23
 
 - http://www.pythondoeswhat.com/
