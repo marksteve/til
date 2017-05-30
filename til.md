@@ -2,6 +2,7 @@
 
 ## 2017-05-30
 - https://docs.djangoproject.com/en/1.11/howto/legacy-databases/ - Integrating Django with a legacy database
+- https://pandas.pydata.org/pandas-docs/stable/style.html - Style Pandas DataFrames
 
 ## 2017-05-24
 - https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/ - Git tricks
