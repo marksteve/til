@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-06-02
+- https://www.crummy.com/software/BeautifulSoup/bs4/doc/#unicode-dammit - Unicode, Dammit!
+
 ## 2017-05-30
 - https://docs.djangoproject.com/en/1.11/howto/legacy-databases/ - Integrating Django with a legacy database
 - https://pandas.pydata.org/pandas-docs/stable/style.html - Style Pandas DataFrames
