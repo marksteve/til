@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-06-05
+- https://github.com/pinterest/bonsai - Understand the tree of dependencies inside your webpack bundles, and trim away the excess
+
 ## 2017-06-02
 - https://www.crummy.com/software/BeautifulSoup/bs4/doc/#unicode-dammit - Unicode, Dammit!
 
