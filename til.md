@@ -3,6 +3,7 @@
 ## 2017-06-08
 - https://pressly.github.io/sup/ - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers 
 - https://github.com/gengo/goship - A simple tool for deploying code to servers
+- https://github.com/sosedoff/pgweb - Cross-platform client for PostgreSQL databases
 
 ## 2017-06-05
 - https://github.com/pinterest/bonsai - Understand the tree of dependencies inside your webpack bundles, and trim away the excess
