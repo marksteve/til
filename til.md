@@ -1,5 +1,9 @@
 # Today I Learned
 
+## 2017-06-11
+
+- https://pyup.io/safety/ - Safety checks your dependencies for known security vulnerabilities
+
 ## 2017-06-08
 - https://pressly.github.io/sup/ - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers 
 - https://github.com/gengo/goship - A simple tool for deploying code to servers
