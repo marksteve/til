@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-06-12
+- https://github.com/jd/tenacity - Retrying library for Python
+
 ## 2017-06-11
 
 - https://pyup.io/safety/ - Safety checks your dependencies for known security vulnerabilities
