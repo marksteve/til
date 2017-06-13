@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-06-13
+- https://github.com/veltman/flubber - Tools for smoother shape animations
+
 ## 2017-06-12
 - https://github.com/jd/tenacity - Retrying library for Python
 
