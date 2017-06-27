@@ -1,5 +1,7 @@
 # Today I Learned
 
+## 2017-06-27
+- http://shakydraw.com/ - Beautiful hand-drawn block diagrams from plain text
 ## 2017-06-13
 - https://github.com/veltman/flubber - Tools for smoother shape animations
 
