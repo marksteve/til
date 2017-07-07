@@ -1,7 +1,11 @@
 # Today I Learned
 
+## 2017-07-07
+- https://github.com/segmentio/objconv - A Go package exposing encoder and decoders that support data streaming to and from multiple formats
+
 ## 2017-06-27
 - http://shakydraw.com/ - Beautiful hand-drawn block diagrams from plain text
+
 ## 2017-06-13
 - https://github.com/veltman/flubber - Tools for smoother shape animations
 
