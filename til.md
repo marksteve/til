@@ -2,6 +2,7 @@
 
 ## 2017-07-07
 - https://github.com/segmentio/objconv - A Go package exposing encoder and decoders that support data streaming to and from multiple formats
+- https://github.com/mmcloughlin/globe - Globe wireframe visualizations in Golang 
 
 ## 2017-06-27
 - http://shakydraw.com/ - Beautiful hand-drawn block diagrams from plain text
