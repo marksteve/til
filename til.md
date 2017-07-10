@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-07-11
+- https://github.com/pkulchenko/ZeroBraneStudio - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer
+
 ## 2017-07-07
 - https://github.com/segmentio/objconv - A Go package exposing encoder and decoders that support data streaming to and from multiple formats
 - https://github.com/mmcloughlin/globe - Globe wireframe visualizations in Golang 
