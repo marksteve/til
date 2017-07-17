@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-07-17
+- https://github.com/erikrose/sphinx-js - Autodoc-style extraction into Sphinx for your JS project
+
 ## 2017-07-11
 - https://github.com/pkulchenko/ZeroBraneStudio - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer
 
