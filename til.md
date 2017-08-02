@@ -1,5 +1,9 @@
 # Today I Learned
 
+## 2017-08-02
+- https://github.com/substack/mixmap - interactive webgl mapping library emphasizing direct access to the rendering pipeline
+- https://github.com/leozide/leocad - A CAD program for creating virtual LEGO models
+
 ## 2017-07-17
 - https://github.com/erikrose/sphinx-js - Autodoc-style extraction into Sphinx for your JS project
 - https://more-itertools.readthedocs.io/en/latest/api.html - Additional building blocks, recipes, and routines for working with Python iterables
