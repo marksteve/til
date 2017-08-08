@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-08-08
+- Nested blocks pattern with Django templates
+
 ## 2017-08-02
 - https://github.com/substack/mixmap - interactive webgl mapping library emphasizing direct access to the rendering pipeline
 - https://github.com/leozide/leocad - A CAD program for creating virtual LEGO models
