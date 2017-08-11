@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-08-11
+- https://github.com/timescale/timescaledb/ - An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
+
 ## 2017-08-08
 - Nested blocks pattern with Django templates
 
