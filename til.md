@@ -1,7 +1,12 @@
 # Today I Learned
 
+## 2017-08-17
+- https://docs.docker.com/engine/userguide/eng-image/multistage-build/ - Multi-stage docker builds
+- https://github.com/GoogleCloudPlatform/distroless - Language focused docker images, minus the operating system
+- https://github.com/GoogleChrome/puppeteer - Headless Chrome Node API
+
 ## 2017-08-11
-- https://github.com/timescale/timescaledb/ - An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension.
+- https://github.com/timescale/timescaledb/ - An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension
 
 ## 2017-08-08
 - Nested blocks pattern with Django templates
