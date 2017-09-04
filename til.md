@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-09-04
+- https://cloud.google.com/compute/docs/tutorials/sending-mail/using-mailgun - GCP blocks default smtp ports
+
 ## 2017-08-17
 - https://docs.docker.com/engine/userguide/eng-image/multistage-build/ - Multi-stage docker builds
 - https://github.com/GoogleCloudPlatform/distroless - Language focused docker images, minus the operating system
