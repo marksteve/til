@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-09-09
+- https://github.com/idyll-lang/idyll - Interactive Document Language
+
 ## 2017-09-04
 - https://cloud.google.com/compute/docs/tutorials/sending-mail/using-mailgun - GCP blocks default smtp ports
 
