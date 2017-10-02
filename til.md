@@ -1,5 +1,8 @@
 # Today I Learned
 
+## 2017-10-02
+- Shift + Option + Volume up/down in mac changes volume by 1/4 of a bar (h/t @iman)
+
 ## 2017-09-09
 - https://github.com/idyll-lang/idyll - Interactive Document Language
 
