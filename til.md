@@ -1,13 +1,11 @@
-# Today I Learned
-
 ## 2017-10-02
-- Shift + Option + Volume up/down in mac changes volume by 1/4 of a bar (h/t @iman)
+Shift + Option + Volume up/down in mac changes volume by 1/4 of a bar (h/t @iman)
 
 ## 2017-09-09
-- https://github.com/idyll-lang/idyll - Interactive Document Language
+https://github.com/idyll-lang/idyll - Interactive Document Language
 
 ## 2017-09-04
-- https://cloud.google.com/compute/docs/tutorials/sending-mail/using-mailgun - GCP blocks default smtp ports
+https://cloud.google.com/compute/docs/tutorials/sending-mail/using-mailgun - GCP blocks default smtp ports
 
 ## 2017-08-17
 - https://docs.docker.com/engine/userguide/eng-image/multistage-build/ - Multi-stage docker builds
@@ -16,10 +14,10 @@
 - https://apscheduler.readthedocs.io/en/latest/index.html - Advanced Python Scheduler
 
 ## 2017-08-11
-- https://github.com/timescale/timescaledb/ - An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension
+https://github.com/timescale/timescaledb/ - An open-source time-series database optimized for fast ingest and complex queries. Engineered up from PostgreSQL, packaged as an extension
 
 ## 2017-08-08
-- Nested blocks pattern with Django templates
+Nested blocks pattern with Django templates
 
 ## 2017-08-02
 - https://github.com/substack/mixmap - interactive webgl mapping library emphasizing direct access to the rendering pipeline
@@ -30,55 +28,51 @@
 - https://more-itertools.readthedocs.io/en/latest/api.html - Additional building blocks, recipes, and routines for working with Python iterables
 
 ## 2017-07-11
-- https://github.com/pkulchenko/ZeroBraneStudio - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer
+https://github.com/pkulchenko/ZeroBraneStudio - Lightweight Lua-based IDE for Lua with code completion, syntax highlighting, live coding, remote debugger, and code analyzer
 
 ## 2017-07-07
 - https://github.com/segmentio/objconv - A Go package exposing encoder and decoders that support data streaming to and from multiple formats
-- https://github.com/mmcloughlin/globe - Globe wireframe visualizations in Golang 
+- https://github.com/mmcloughlin/globe - Globe wireframe visualizations in Golang
 
 ## 2017-06-27
-- http://shakydraw.com/ - Beautiful hand-drawn block diagrams from plain text
+http://shakydraw.com/ - Beautiful hand-drawn block diagrams from plain text
 
 ## 2017-06-13
-- https://github.com/veltman/flubber - Tools for smoother shape animations
+https://github.com/veltman/flubber - Tools for smoother shape animations
 
 ## 2017-06-12
-- https://github.com/jd/tenacity - Retrying library for Python
+https://github.com/jd/tenacity - Retrying library for Python
 
 ## 2017-06-11
-
-- https://pyup.io/safety/ - Safety checks your dependencies for known security vulnerabilities
+https://pyup.io/safety/ - Safety checks your dependencies for known security vulnerabilities
 
 ## 2017-06-08
-- https://pressly.github.io/sup/ - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers 
+- https://pressly.github.io/sup/ - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers
 - https://github.com/gengo/goship - A simple tool for deploying code to servers
 - https://github.com/sosedoff/pgweb - Cross-platform client for PostgreSQL databases
 - https://github.com/ivolo/disposable-email-domains - A list of disposable email domains
 - https://github.com/ivolo/personal-email-domains - A list of personal email domains like gmail.com
 
 ## 2017-06-05
-- https://github.com/pinterest/bonsai - Understand the tree of dependencies inside your webpack bundles, and trim away the excess
+https://github.com/pinterest/bonsai - Understand the tree of dependencies inside your webpack bundles, and trim away the excess
 
 ## 2017-06-02
-- https://www.crummy.com/software/BeautifulSoup/bs4/doc/#unicode-dammit - Unicode, Dammit!
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#unicode-dammit - Unicode, Dammit!
 
 ## 2017-05-30
 - https://docs.djangoproject.com/en/1.11/howto/legacy-databases/ - Integrating Django with a legacy database
 - https://pandas.pydata.org/pandas-docs/stable/style.html - Style Pandas DataFrames
 
 ## 2017-05-24
-- https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/ - Git tricks
+https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/ - Git tricks
 
 ## 2017-05-23
 
-- http://www.pythondoeswhat.com/
+http://www.pythondoeswhat.com/ - Reverse a list with slicing
 
-  Reverse a list with slicing
-
-  ```python
-  >>> [1,2,3][::-1]
-  ```
-  
+```python
+>>> [1,2,3][::-1]
+```
 
 ## 2017-05-22
 - http://www.defstartup.org/2016/12/22/writing-well.html - Writing well
@@ -91,7 +85,7 @@
 - https://github.com/dcramer/voices.py - macOS text-to-speech prank
 
 ## 2017-05-18
-- https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/ - Postgres tips
+https://www.braintreepayments.com/blog/safe-operations-for-high-volume-postgresql/ - Postgres tips
 
 ## 2017-05-09
 - http://pandas.pydata.org/pandas-docs/stable/generated/pandas.io.json.json_normalize.html
@@ -103,32 +97,32 @@
 - Google Cloud Shell has a code editor!
 
 ## 2017-04-24
-- https://github.com/Gigoteur/PX8 - Pico8 in Rust
+https://github.com/Gigoteur/PX8 - Pico8 in Rust
 
 ## 2017-04-23
 - https://www.ssh.com/ssh/port Why SSH uses port 22
 - https://blog.filippo.io/git-fixup-amending-an-older-commit/ - git fixup
 
 ## 2017-04-20
-- Rebuild native modules (e.g. `npm rebuild node-sass`) in DeployBot build scripts for when they update node versions in their build images
+Rebuild native modules (e.g. `npm rebuild node-sass`) in DeployBot build scripts for when they update node versions in their build images
 
 ## 2017-04-19
-- http://wiki.flightgear.org/Virtual_airlines
+http://wiki.flightgear.org/Virtual_airlines
 
 ## 2017-04-18
-- https://en.wikipedia.org/wiki/Greenfield_project - lacks constraints imposed by prior work
+https://en.wikipedia.org/wiki/Greenfield_project - lacks constraints imposed by prior work
 
 ## 2017-04-06
-- https://github.com/bugsnag/chromatic-sass - Better looking gradients
+https://github.com/bugsnag/chromatic-sass - Better looking gradients
 
 ## 2017-04-03
-- Writing seeds is a good way to get familiar with db structure
+Writing seeds is a good way to get familiar with db structure
 
 ## 2017-04-01
-- https://cloud.google.com/shell/ - Free shell with $HOME persisted for up to 5GB
+https://cloud.google.com/shell/ - Free shell with $HOME persisted for up to 5GB
 
 ## 2017-03-30
-- https://redis.io/commands#geo - Redis has geospatial commands
+https://redis.io/commands#geo - Redis has geospatial commands
 
 ## 2017-03-29
 - https://packetmozart.com/ - Make Wi-Fi traffic visible and use your Mac as a home security system.
@@ -141,8 +135,7 @@
 - https://endcrawl.com/ - A startup that does movie end credits
 
 ## 2016-10-06
-
-- https://checkout.stripe.com/v3/data/zipCodes/PH.json?crossDomain=true - Get city, state & zip pairings from Stripe
+https://checkout.stripe.com/v3/data/zipCodes/PH.json?crossDomain=true - Get city, state & zip pairings from Stripe
 
 ## 2016-02-10
 

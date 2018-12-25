@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Today I Learned</title>
+  <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/10up-sanitize.css/8.0.0/sanitize.min.css'>
+  <style>
+    html, body {
+      height: 100%;
+    }
+    body {
+      color: #333;
+      margin: 0;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    h1, h2, h3 {
+      font-weight: normal;
+    }
+    h1 {
+      margin-bottom: 0;
+    }
+    h2 {
+      text-align: center;
+    }
+    a {
+      color: inherit;
+    }
+    pre {
+      background: #eee;
+      padding: 1rem;
+      overflow-x: scroll;
+    }
+    .til {
+      max-width: 40rem;
+      padding: 0 2rem 2rem;
+    }
+    @media (max-width: 40rem) {
+      .til {
+        max-width: 100%;
+      }
+    }
+  </style>
+<body>
+  <h1>Today I Learned</h1>
+  <div class='til'></div>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/marked/0.5.2/marked.min.js'></script>
+  <script src='./index.js'></script>
